@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="src1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/12_Reflection_lab/src/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

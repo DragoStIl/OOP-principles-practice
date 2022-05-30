@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="09_Polymorphism_lab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/09_Polymorphism_lab/out/production/09_Polymorphism_lab/problem_01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_Polymorphism_lab/out/production/09_Polymorphism_lab/problem_02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09_Polymorphism_lab/out/production/09_Polymorphism_lab/problem_03.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
